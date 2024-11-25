@@ -40,7 +40,7 @@ To launch the Streamlit app for real-time deepfake detection:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/deepfake-detection.git  
+   git clone git@github.com:24PAnanya/Deepfake-detection-CS435.git  
    cd deepfake-detection  
    ```  
 
